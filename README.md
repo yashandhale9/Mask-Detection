@@ -75,6 +75,9 @@ MaskDetection/
 ├── face_mask_train.py
 ├── face_mask_detection_realtime.py
 └── README.md
+├── Case Study.pdf
+└── Report.pdf
+
 
 ```
 ---
