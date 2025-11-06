@@ -151,7 +151,7 @@ Beep every 3 seconds for Improper or No Mask
 
 | Metric              | Value                       |
 | ------------------- | --------------------------- |
-| Validation Accuracy | ~98%                        |
+| Validation Accuracy | ~87%                        |
 | Loss                | Very Low                    |
 | Model Size (.h5)    | ~14 MB                      |
 | TFLite Size         | ~4 MB                       |
